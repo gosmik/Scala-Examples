@@ -1,3 +1,0 @@
-
-
-println("Scala is amazing")
